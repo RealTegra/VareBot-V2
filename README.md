@@ -1,4 +1,5 @@
-###VAREBOT V2
+### VAREBOT V2
+
 Dopo tanto tempo VareBot è tornato, aggiornato all'ultima versione
 
 - 令 Fixato da Tegra √Δ
