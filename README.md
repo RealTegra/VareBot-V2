@@ -1,4 +1,4 @@
-#VAREBOT V2
+###VAREBOT V2
 Dopo tanto tempo VareBot è tornato, aggiornato all'ultima versione
 
 - 令 Fixato da Tegra √Δ
@@ -16,7 +16,7 @@ Dopo tanto tempo VareBot è tornato, aggiornato all'ultima versione
 
  -----  
 
-## 〘🩸〙ꪶ͢𝐀𝐍𝐆𝚬𝐋𝐒ꫂ〘🕊〙  
+## 〘🩸〙ꪶ͢𝐀𝐍𝐆𝚬𝐋𝐒ꫂ〘🕊〙
 
 [![blog](https://img.shields.io/badge/gruppo/angels-25D366?style=for-the-badge&logo=whatsapp&logoColor=white  
  )](https://chat.whatsapp.com/J4I7qujmexb3CEIjY3QGJs) 
