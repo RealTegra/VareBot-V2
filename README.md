@@ -65,9 +65,9 @@ Dopo tanto tempo VareBot è tornato, aggiornato all'ultima versione
  ```
 
 ### PER METTERTI PROPRIETARIO DEL BOT:
-1: Navigare nei file del bot finchè trovi il file config.js
-2: Togliere il numero che c'è di default e mettere il tuo
-3: Per mettere altri numeri, digitarli sotto, dove c'è scritto 39xxxxx...
+- Navigare nei file del bot finchè trovi il file config.js
+- Togliere il numero che c'è di default e mettere il tuo
+- Per mettere altri numeri, digitarli sotto, dove c'è scritto 39xxxxx...
  
 ### 🌟 CREATORE: TEGRA e VARE
 
