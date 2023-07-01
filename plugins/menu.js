@@ -28,18 +28,18 @@ let prova = {
 "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`
 }}, "participant": "0@s.whatsapp.net"
 }
-let text = `─⭓ *☁️𝑴𝒐𝒐𝒏𝑪𝒍𝒐𝒖𝒅𝒔⇝𝐁Ꮻ𝐓|mənū☁️*
+let text = `VareBot V2
 *ciao ${name} ecco i comandi principali!*
 
-${usedPrefix}  COMANDI
-${usedPrefix}  NEWS
+${usedPrefix}COMANDI
+${usedPrefix}NEWS
 ─
-*Scaricare 𝑴𝒐𝒐𝒏𝑪𝒍𝒐𝒖𝒅𝒔⇝𝐁Ꮻ𝐓*
-https://github.com/Fabri115/botwhaita.git
+*Scaricare VareBot V2*
+https://github.com/RealTegra/VareBit-V2
 ─
-*Entra in 𝐌ꮻꮻ𝖓☾︎ℓꮻ𝕦𝜕𝖘*
-https://chat.whatsapp.com/InZqSk4lsyzKJUtSWfsdjF 
- ⇝ *ꪶ͢𝑴☁️ꫂ ᵉᵈᶦᶻ ²⁰²³*`.trim() 
+*Entra in Angel𝖘*
+https://chat.whatsapp.com/J4I7qujmexb3CEIjY3QGJs
+`.trim() 
 conn.reply(m.chat, text, prova, m, false, )
 }
 handler.help = ['menu']
