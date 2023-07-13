@@ -28,7 +28,8 @@ Dopo tanto tempo VareBot è tornato, aggiornato all'ultima versione
 ```PAYPAL```  [`paypal > tegra`](https://paypal.me/notlamucci) 
  
 ------------------ 
-  
+### - VERSIONE DI TERMUX NECESSARIA PER AVVIARE IL BOT
+https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk/file
 ### - SCRIVI I SEGUENTI COMANDI UNO ALLA VOLTA SU TERMUX ❗
 ## - Ricordati di scaricare lo zip 💖
 
