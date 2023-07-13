@@ -20,9 +20,9 @@ let neww = performance.now()
 let speed = neww - old
 let text = `
 
-✦✧✧𝐁Ꮻ𝐓✧✧✦
+✦✧✧TEGRA𝐁Ꮻ𝐓✧✧✦
 
-┌──⭓ *MENU NOVITA'*
+┌──⭓ *Le cose nuove'*
 │⭔ ${usedPrefix}spotify (+ nome song)
 │⭔ ${usedPrefix}attiva chatbot 
 │⭔ ${usedPrefix}abbraccio + @
@@ -38,7 +38,7 @@ let text = `
 │⭔ ${usedPrefix}bonk
 └───────⭓
 
-┌──⭓ *MENU 'FABRI'*
+┌──⭓ *Fabri'*
 |- fabri funziona senza uso
 |  di prefisso.
 |  per attivarlo:
@@ -46,7 +46,7 @@ let text = `
 |⭔ OFF: dormi fabri 
 └───────⭓
 
-┌──⭓ *MENU 'RISPOSTA'*
+┌──⭓ *x Legends'*
 │⭔ insulta + @
 │⭔ minaccia + @ 
 │⭔ zizzania + @
@@ -54,21 +54,19 @@ let text = `
 │⭔ bestemmia
 │⭔ moneta (testa o croce)
 └───────⭓
-┌──⭓ *MENU 'AUDIO'*
+┌──⭓ *Audio'*
 |⭔ Drama|Fail|Game Over|TG5
 │⭔ Timida|Ma che fai|rutto
 │⭔ Sei una monella|Soddisfazione
 │⭔ Io pago|Renzi|Rosario Muniz
 │⭔ Mio figlio poteva morire|Dio cancaro
 └───────⭓
-┌──⭓ *MENU 'STICKER'*
-│⭔ Steve Jobs
-│⭔ Non ci sono
-│⭔ Banana
-|⭔ Cesso
+┌──⭓ *x Felix'*
+│⭔ ${usedPrefix}sticker
+│⭔ ${usedPrefix}wm (Rinomina)
 └───────⭓
 
-┌──⭓ 𝐆𝐑𝐔𝐏𝐏𝐎
+┌──⭓ X Admin supremo sesso
 │ඬ ${usedPrefix}kick / addio / ban @
 │ඬ ${usedPrefix}warn @
 │ඬ ${usedPrefix}unwarn @
@@ -107,15 +105,13 @@ let text = `
 │ඬ ${usedPrefix}ping
 └───────⭓
 
-════ •⊰❂⊱• ════ 
+════ ALtre cose ════ 
 
-┌──⭓ 𝐌𝐄𝐃𝐈𝐀
+┌──⭓ MEdia sesso
 │ඬ ${usedPrefix}attp (txt)
 │ඬ ${usedPrefix}ttp (txt)
 │ඬ ${usedPrefix}gtts (txt)
 │ඬ ${usedPrefix}dado
-│ඬ ${usedPrefix}sticker / s (foto/video)
-│ඬ ${usedPrefix}wm (sticker)
 │ඬ ${usedPrefix}emojimix (emoji+emoji)
 │ඬ ${usedPrefix}play (canzone)
 │ඬ ${usedPrefix}playdoc (canzone)
@@ -137,12 +133,12 @@ let text = `
 
  ════ •⊰❂⊱• ════ 
 
-┌──⭓ 𝐋𝐎𝐆𝐇𝐈
+┌──⭓ Loghi?
 │ඬ ${usedPrefix}menuloghi
 └───────⭓
 
  ════ •⊰❂⊱• ════ 
-┌──⭓ 𝐒𝐏𝐄𝐂𝐈𝐀𝐋𝐈
+┌──⭓ x Vare
 │ඬ ${usedPrefix}gay @
 │ඬ ${usedPrefix}frocio @
 │ඬ ${usedPrefix}lesbica @
@@ -163,14 +159,13 @@ let text = `
 │ඬ ${usedPrefix}autoadmin
 │ඬ ${usedPrefix}ruba (admin) '𝓷𝓮𝔀
 │ඬ ${usedPrefix}regalo (admin) '𝓷𝓮𝔀
-│ regalo e ruba hanno effetto su tutti
 │ඬ ${usedPrefix}top messaggi '𝓷𝓮𝔀
 │ඬ ${usedPrefix}virus1/1/2/3ecc '𝓷𝓮𝔀
 └───────⭓
 
  ════ •⊰❂⊱• ════ 
 
-┌──⭓ 𝐏𝐑𝐎𝐏𝐑𝐈𝐄𝐓𝐀𝐑𝐈𝐎
+┌──⭓ Esclusivo di tegra hahaha
 │ඬ ${usedPrefix}attiva/disabilita restrict
 │ඬ ${usedPrefix}attiva/disabilita antiprivato
 │ඬ ${usedPrefix}attiva/disabilita sologruppo
@@ -191,7 +186,7 @@ let text = `
 
 ════ •⊰❂⊱• ════ 
 
-┌──⭓ 𝐈𝐍𝐒𝐓𝐀𝐋𝐋𝐀𝐑𝐄 𝐈𝐋 𝐁𝐎𝐓
+┌──⭓ 𝐈𝐍𝐒𝐓𝐀𝐋𝐋𝐀𝐑𝐄  Tegra𝐁𝐎𝐓
 │⭔ .installa
 └───✦✧✧𝐁Ꮻ𝐓 ✧✧✦ 
 `.trim() 
