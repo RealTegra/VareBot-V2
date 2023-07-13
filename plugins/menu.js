@@ -28,18 +28,14 @@ let prova = {
 "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`
 }}, "participant": "0@s.whatsapp.net"
 }
-let text = `VareBot V2
-*ciao ${name} ecco i comandi principali!*
+let text = `─⭓ *TegraBot il bot dell'estate 2023 sesso pazzo*
+*Che cazzo vuoi ${name} *
 
-${usedPrefix}COMANDI
-${usedPrefix}NEWS
+${usedPrefix}COMANDI > del bot sessosi
+${usedPrefix}NEWS >  di sto cazzo 
 ─
-*Scaricare VareBot V2*
-https://github.com/RealTegra/VareBit-V2
-─
-*Entra in Angel𝖘*
-https://chat.whatsapp.com/J4I7qujmexb3CEIjY3QGJs
-`.trim() 
+<Github>: ancora no 
+<Angels>: eh aspetta stronzo `.trim() 
 conn.reply(m.chat, text, prova, m, false, )
 }
 handler.help = ['menu']
